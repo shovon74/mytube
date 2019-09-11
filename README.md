@@ -1,6 +1,6 @@
 ####### What is mytube #############
 
-=>Mytube is an application that let's you upload, store, and play all of your music from the cloud. You can now manage and listen to your music from any device, anywhere.
+=>Mytube is an application that let you upload, update, share and play all of your music from the cloud. You can manage and listen to your  favorite music from any device, anywhere.
 
 ######### Tools need to install to run this project ##########
 
